@@ -11,8 +11,8 @@ const btnStyles = css`
   transition: all 0.3s ease;
 
   &: hover {
-    background-color: #615f5f;
-    border: 1px solid #615f5f;
+    background-color: #6e6d6d;
+    border: 1px solid #6e6d6d;
     color: #fff;
   }
 `;

@@ -67,7 +67,7 @@ export const inputStyles = css`
   }
 
   @media (max-width: 480px) {
-    width: 250px;
+    width: 200px;
   }
 `;
 
@@ -81,4 +81,3 @@ export const focusedIconStyles = css`
   ${iconStyles}
   fill: #0676cc;
 `;
-
